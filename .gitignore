@@ -1,0 +1,17 @@
+# Dataset
+data/raw/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Hidden Info
+.env
+
+# Operating System
+.DS_Store
