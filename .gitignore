@@ -1,5 +1,6 @@
 # Dataset
 data/raw/*.csv
+data/processed/*.parquet
 
 # Jupyter
 .ipynb_checkpoints/
